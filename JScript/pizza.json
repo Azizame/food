@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title" : "Пицца 4 в одном",
+        "weight": 18,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 2,
+        "title" : "С курица",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 3,
+        "title" : "С сырым",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 4,
+        "title" : "С италянским рецептам",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 5,
+        "title" : "Пицца 4 в одном",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 6,
+        "title" : "Пицца 4 в одном",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 7,
+        "title" : "Пицца 4 в одном",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 8,
+        "title" : "Пицца 4 в одном",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    },
+    {
+        "id": 9,
+        "title" : "Пицца 4 в одном",
+        "weight": 30,
+        "price": 1500,
+        "imgSrc": "pizza_11.jfif"
+    }
+]
